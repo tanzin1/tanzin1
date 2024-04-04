@@ -1,8 +1,8 @@
 - 👋 Opa, eu sou @tanzin1
-- 👀 Estou interessado in programação
-- 🌱 Atualmente estou aprendendo html, css e javascript
+- 👀 Estou interessado em programação
+- 🌱 Atualmente estou aprendendo html, css e python
 - 💞️Estou procurando colaborar com qualquer pessoa
-- 📫 Como chegar até mim. @_ntz.silva_ esse é meu instagram
+- 📫 Como chegar até mim. @Silvaws07 esse é meu instagram
  
 <!---
 tanzin1/tanzin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
